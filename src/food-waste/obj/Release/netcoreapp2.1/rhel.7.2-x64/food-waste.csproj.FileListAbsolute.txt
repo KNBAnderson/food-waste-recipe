@@ -1,0 +1,11 @@
+/home/katlin/Coding/food-waste/src/food-waste/bin/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.deps.json
+/home/katlin/Coding/food-waste/src/food-waste/bin/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.runtimeconfig.json
+/home/katlin/Coding/food-waste/src/food-waste/bin/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.runtimeconfig.dev.json
+/home/katlin/Coding/food-waste/src/food-waste/bin/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.dll
+/home/katlin/Coding/food-waste/src/food-waste/bin/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.pdb
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.csprojAssemblyReference.cache
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.csproj.CoreCompileInputs.cache
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.AssemblyInfoInputs.cache
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.AssemblyInfo.cs
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.dll
+/home/katlin/Coding/food-waste/src/food-waste/obj/Release/netcoreapp2.1/rhel.7.2-x64/food-waste.pdb
