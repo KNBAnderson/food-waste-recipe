@@ -1,5 +1,56 @@
 # Food Waste Recipes
 
+#### By _**Katlin Anderson**_
+
+## Description
+_View the deployed version here N/A
+
+_A full stack web app using a C# backend and React front end._
+
+_This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
+
+## Setup/Installation Requirements
+
+* _$ git clone https://github.com/KNBAnderson/tap-room;_
+* __
+
+## Specs
+![picture](assets/ComponentLayout.jpg)
+
+
+## Installation Requirements
+* Run in browser
+
+## Known Bugs
+There are no known bugs.
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _React_
+* _Node_
+* _Jest_
+* _ESLinter_
+* _Babel_
+* _C#_
+* _.Net_
+* _AWS Lambda_
+* _AWS Cognito_
+* _AWS DynamoDB_
+* _AWS S3 Bucket_
+
+### License
+
+*This software is licensed under the GPL license.*
+
+Copyright (c) 2019 **_Katlin Anderson_**
+
+
+
+
+
 This starter project consists of:
 * serverless.template - an AWS CloudFormation Serverless Application Model template file for declaring your Serverless functions and other AWS resources
 * Function.cs - class file containing the C# method mapped to the single function declared in the template file
